@@ -11,16 +11,16 @@ https://mymedstracker.netlify.app
 ## Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Add Medicine
-![Add Medicine](screenshots/add-medicine.png)
+![Add Medicine](Screenshots/add-medicine.png)
 
 ### Alarm Management
-![Alarm Management](screenshots/alarms.png)
+![Alarm Management](Screenshots/alarms.png)
 
 ### History & Streak Tracking
-![History](screenshots/history.png)
+![History](Screenshots/history.png)
 
 ## Features
 
